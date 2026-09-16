@@ -1,4 +1,0 @@
-# SSH
-
-- [Multiple GitHub Accounts & SSH Config](https://stackoverflow.com/questions/3225862/multiple-github-accounts-ssh-config)
-
